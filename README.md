@@ -13,3 +13,5 @@ White House > Fed Curriculum Region 4 > Texas > Fed Region 3 > Harris County > H
 permissions based on each tier, transparency, delayed release
 
 Can pull up data for cognitive services straight to data.gov
+
+Customizable tiers

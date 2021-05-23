@@ -22,3 +22,5 @@ Customizable tiers
 Genuine / Tamper resistant
 
 Mega style uploading and identified by hash (?) similar to bitcoin transactions. Abstracted database of hashes
+
+Example documents: fiscal budgets for city council

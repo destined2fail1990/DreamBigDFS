@@ -15,3 +15,5 @@ permissions based on each tier, transparency, delayed release
 Can pull up data for cognitive services straight to data.gov
 
 Customizable tiers
+
+Genuine / Tamper resistant

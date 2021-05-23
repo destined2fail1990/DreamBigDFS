@@ -1,2 +1,2 @@
 # DreamBigDFS
-Massive Data Storage File System With Orchestration
+Massive Vertically Tiered Data Storage File System With Orchestration

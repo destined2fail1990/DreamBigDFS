@@ -12,8 +12,9 @@ Ex:
 
 
 White House > Fed Curriculum Region 4 > Texas > Fed Region 3 > Harris County > Houston
+White House < Fed Curriculum Region 4 < Texas < Fed Region 3 < Harris County < Houston
 
-permissions based on each tier, transparency, delayed release
+permissions based on each tier, transparency, delayed release. Considering infrastructure topology in tiers.
 
 Can pull up data for cognitive services straight to data.gov
 

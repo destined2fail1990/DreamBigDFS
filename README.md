@@ -24,4 +24,7 @@ Genuine / Tamper resistant
 
 Mega style uploading and identified by hash (?) similar to bitcoin transactions. Abstracted database of hashes
 
+API verifed output
+
+
 Example documents: fiscal budgets for city council
